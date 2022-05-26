@@ -1,0 +1,57 @@
+{
+  "variantId": "stvforva_Standard",
+  "hullId": "stvforva",
+  "displayName": "Standard",
+  "goalVariant": True,
+  "fluxCapacitors": 5,
+  "fluxVents": 5,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "armoredweapons",
+    "auxiliary_fuel_tanks",
+    "auxiliarythrusters",
+    "autorepair",
+    "blast_doors",
+    "expanded_cargo_holds",
+    "hardenedshieldemitter",
+    "repair_gantry",
+    "reinforcedhull",
+    "surveying_equipment",
+    "solar_shielding",
+    "nav_relay"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "pdburst",
+        "WS0002": "pdburst",
+        "WS0003": "pdburst",
+        "WS0004": "pdburst",
+        "WS0005": "pdburst",
+        "WS0006": "pdburst",
+        "WS0007": "pdburst",
+        "WS0008": "pdburst",
+        "WS0009": "pdburst",
+        "WS0010": "pdburst",
+        "WS0011": "pdburst",
+        "WS0012": "pdburst",
+        "WS0013": "pdburst",
+        "WS0014": "pdburst",
+        "WS0015": "pdburst",
+        "WS0016": "pdburst",
+        "WS0017": "pdburst",
+        "WS0018": "pdburst"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
