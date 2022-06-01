@@ -1,0 +1,79 @@
+{
+  "variantId": "azorva_standard",
+  "hullId": "azorva",
+  "displayName": "Standard",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 2,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "extendedshieldemitter",
+    "magazines"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0027": "cyclone",
+        "WS0028": "cyclone",
+        "WS0029": "cyclone",
+        "WS0030": "cyclone",
+        "WS0031": "cyclone",
+        "WS0032": "cyclone"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "guardian",
+        "WS0002": "guardian",
+        "WS0003": "guardian",
+        "WS0004": "guardian",
+        "WS0005": "guardian",
+        "WS0006": "guardian",
+        "WS0007": "guardian",
+        "WS0008": "guardian",
+        "WS0009": "guardian",
+        "WS0010": "guardian",
+        "WS0011": "guardian",
+        "WS0012": "guardian",
+        "WS0013": "guardian",
+        "WS0014": "guardian",
+        "WS0015": "guardian",
+        "WS0016": "guardian",
+        "WS0017": "guardian",
+        "WS0018": "guardian",
+        "WS0019": "guardian",
+        "WS0020": "guardian",
+        "WS0021": "guardian",
+        "WS0022": "guardian",
+        "WS0023": "guardian",
+        "WS0024": "guardian",
+        "WS0025": "guardian",
+        "WS0026": "guardian",
+        "WS0033": "guardian",
+        "WS0034": "guardian",
+        "WS0035": "guardian",
+        "WS0036": "guardian",
+        "WS0037": "guardian",
+        "WS0038": "guardian",
+        "WS0039": "guardian",
+        "WS0040": "guardian"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [
+    {
+      "WS0001": "wolf_hegemony_Assault"
+    }
+  ],
+  "wings": []
+}
