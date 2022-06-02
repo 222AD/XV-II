@@ -11,7 +11,7 @@
 	},
 	"combatCapital":{
 		"dxvotkta_Standard":1.5,
-		"azorva_Standard":1,	
+		"azorva_standard":1,	
 		"uklvoatovor_standard":0.05,
 		"orkovtrva_standard":0.7,
 		"orkovtrva_advanced":0.3,
