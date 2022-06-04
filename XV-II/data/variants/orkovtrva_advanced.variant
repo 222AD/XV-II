@@ -1,0 +1,107 @@
+{
+  "variantId": "orkovtrva_advanced",
+  "hullId": "orkovtrva",
+  "displayName": "Advanced",
+  "goalVariant": true,
+  "fluxCapacitors": 36,
+  "fluxVents": 50,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "fluxbreakers",
+    "extendedshieldemitter",
+    "ecm",
+    "augmentedengines",
+    "missleracks",
+    "magazines"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0043": "realitydisruptor",
+        "WS0044": "realitydisruptor",
+        "WS0049": "realitydisruptor",
+        "WS0050": "realitydisruptor"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0009": "hurricane",
+        "WS0011": "squall",
+        "WS0013": "hurricane",
+        "WS0015": "squall",
+        "WS0017": "hurricane",
+        "WS0019": "squall",
+        "WS0021": "hurricane",
+        "WS0023": "squall",
+        "WS0025": "hurricane",
+        "WS0027": "squall",
+        "WS0029": "hurricane",
+        "WS0031": "squall",
+        "WS0033": "hurricane",
+        "WS0035": "squall",
+        "WS0039": "squall",
+        "WS0041": "squall"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0010": "hurricane",
+        "WS0012": "squall",
+        "WS0014": "hurricane",
+        "WS0016": "squall",
+        "WS0018": "hurricane",
+        "WS0020": "squall",
+        "WS0022": "hurricane",
+        "WS0024": "squall",
+        "WS0026": "hurricane",
+        "WS0028": "squall",
+        "WS0030": "hurricane",
+        "WS0032": "squall",
+        "WS0034": "hurricane",
+        "WS0036": "squall",
+        "WS0037": "hurricane",
+        "WS0038": "hurricane",
+        "WS0040": "squall",
+        "WS0042": "squall"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "guardian",
+        "WS0002": "guardian",
+        "WS0003": "guardian",
+        "WS0004": "guardian",
+        "WS0005": "guardian",
+        "WS0006": "guardian",
+        "WS0007": "guardian",
+        "WS0008": "guardian"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
