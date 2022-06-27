@@ -15,6 +15,7 @@
 		"uklvoatovor_standard":0.05,
 		"orkovtrva_standard":0.7,
 		"orkovtrva_advanced":0.3,
+		"eszvcorva_Standard":0.5,
 	},
 	"freighterLarge":{
 		"uklvoatovor_standard":0.05,
