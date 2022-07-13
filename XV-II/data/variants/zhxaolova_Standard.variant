@@ -1,0 +1,128 @@
+{
+  "variantId": "zhxaolova_Standard",
+  "hullId": "zhxaolova",
+  "displayName": "Standard",
+  "goalVariant": true,
+  "fluxCapacitors": 50,
+  "fluxVents": 50,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "adaptive_coils",
+    "advancedoptics",
+    "advancedshieldemitter",
+    "armoredweapons",
+    "autorepair",
+    "auxiliarythrusters",
+    "ballistic_rangefinder",
+    "blast_doors",
+    "eccm",
+    "ecm",
+    "expanded_cargo_holds",
+    "extendedshieldemitter",
+    "heavyarmor",
+    "hardened_subsystems",
+    "missleracks",
+    "nav_relay",
+    "neural_integrator",
+    "neural_interface",
+    "surveying_equipment",
+    "operations_center"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0021": "hammerrack",
+        "WS0022": "hammerrack",
+        "WS0023": "hammerrack",
+        "WS0024": "hammerrack",
+        "WS0025": "cyclone",
+        "WS0026": "cyclone",
+        "WS0027": "hammerrack",
+        "WS0028": "hammerrack",
+        "WS0029": "hammerrack",
+        "WS0030": "hammerrack",
+        "WS0031": "cyclone",
+        "WS0032": "cyclone"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "mjolnir",
+        "WS0002": "mjolnir",
+        "WS0003": "mjolnir",
+        "WS0004": "mjolnir",
+        "WS0005": "mjolnir",
+        "WS0006": "mjolnir",
+        "WS0007": "mjolnir",
+        "WS0008": "mjolnir",
+        "WS0033": "mjolnir",
+        "WS0034": "mjolnir",
+        "WS0057": "mjolnir",
+        "WS0058": "mjolnir"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0009": "hil",
+        "WS0010": "hil",
+        "WS0011": "hil",
+        "WS0012": "hil",
+        "WS0013": "hil",
+        "WS0014": "hil",
+        "WS0015": "hil",
+        "WS0016": "hil",
+        "WS0017": "hil",
+        "WS0018": "hil",
+        "WS0019": "hil",
+        "WS0020": "hil"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0035": "vulcan",
+        "WS0036": "vulcan",
+        "WS0037": "vulcan",
+        "WS0038": "vulcan",
+        "WS0039": "vulcan",
+        "WS0040": "vulcan",
+        "WS0041": "vulcan",
+        "WS0042": "vulcan",
+        "WS0043": "vulcan",
+        "WS0044": "vulcan",
+        "WS0045": "vulcan",
+        "WS0046": "vulcan",
+        "WS0047": "vulcan",
+        "WS0048": "vulcan",
+        "WS0049": "vulcan",
+        "WS0050": "vulcan",
+        "WS0051": "vulcan",
+        "WS0052": "vulcan",
+        "WS0053": "vulcan",
+        "WS0054": "vulcan",
+        "WS0055": "vulcan",
+        "WS0056": "vulcan"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

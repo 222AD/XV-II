@@ -1,0 +1,128 @@
+{
+  "variantId": "zhxaolova_Elite",
+  "hullId": "zhxaolova",
+  "displayName": "Elite",
+  "goalVariant": false,
+  "fluxCapacitors": 50,
+  "fluxVents": 50,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "adaptive_coils",
+    "advancedoptics",
+    "advancedshieldemitter",
+    "armoredweapons",
+    "autorepair",
+    "auxiliarythrusters",
+    "ballistic_rangefinder",
+    "blast_doors",
+    "eccm",
+    "ecm",
+    "expanded_cargo_holds",
+    "extendedshieldemitter",
+    "heavyarmor",
+    "hardened_subsystems",
+    "missleracks",
+    "nav_relay",
+    "neural_integrator",
+    "neural_interface",
+    "surveying_equipment",
+    "operations_center"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0021": "rifttorpedo",
+        "WS0022": "rifttorpedo",
+        "WS0023": "rifttorpedo",
+        "WS0024": "rifttorpedo",
+        "WS0025": "rifttorpedo",
+        "WS0026": "rifttorpedo",
+        "WS0027": "rifttorpedo",
+        "WS0028": "rifttorpedo",
+        "WS0029": "rifttorpedo",
+        "WS0030": "rifttorpedo",
+        "WS0031": "rifttorpedo",
+        "WS0032": "rifttorpedo"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "vpdriver",
+        "WS0002": "vpdriver",
+        "WS0003": "vpdriver",
+        "WS0004": "vpdriver",
+        "WS0005": "vpdriver",
+        "WS0006": "vpdriver",
+        "WS0007": "vpdriver",
+        "WS0008": "vpdriver",
+        "WS0033": "vpdriver",
+        "WS0034": "vpdriver",
+        "WS0057": "vpdriver",
+        "WS0058": "vpdriver"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0009": "riftcascade",
+        "WS0010": "riftcascade",
+        "WS0011": "riftcascade",
+        "WS0012": "riftcascade",
+        "WS0013": "riftcascade",
+        "WS0014": "riftcascade",
+        "WS0015": "riftcascade",
+        "WS0016": "riftcascade",
+        "WS0017": "riftcascade",
+        "WS0018": "riftcascade",
+        "WS0019": "riftcascade",
+        "WS0020": "riftcascade"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0035": "amblaster",
+        "WS0036": "amblaster",
+        "WS0037": "amblaster",
+        "WS0038": "amblaster",
+        "WS0039": "amblaster",
+        "WS0040": "amblaster",
+        "WS0041": "amblaster",
+        "WS0042": "amblaster",
+        "WS0043": "amblaster",
+        "WS0044": "amblaster",
+        "WS0045": "amblaster",
+        "WS0046": "amblaster",
+        "WS0047": "amblaster",
+        "WS0048": "amblaster",
+        "WS0049": "amblaster",
+        "WS0050": "amblaster",
+        "WS0051": "amblaster",
+        "WS0052": "amblaster",
+        "WS0053": "amblaster",
+        "WS0054": "amblaster",
+        "WS0055": "amblaster",
+        "WS0056": "amblaster"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
